@@ -1,0 +1,12 @@
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\bin\Debug\net6.0\RedRain.Domain.deps.json
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\bin\Debug\net6.0\RedRain.Domain.dll
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\bin\Debug\net6.0\RedRain.Domain.pdb
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\RedRain.Domain.csproj.AssemblyReference.cache
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\RedRain.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\RedRain.Domain.AssemblyInfoInputs.cache
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\RedRain.Domain.AssemblyInfo.cs
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\RedRain.Domain.csproj.CoreCompileInputs.cache
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\RedRain.Domain.dll
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\refint\RedRain.Domain.dll
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\RedRain.Domain.pdb
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.Domain\obj\Debug\net6.0\ref\RedRain.Domain.dll

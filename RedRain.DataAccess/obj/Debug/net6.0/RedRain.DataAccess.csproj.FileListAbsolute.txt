@@ -1,0 +1,15 @@
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\bin\Debug\net6.0\RedRain.DataAccess.deps.json
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\bin\Debug\net6.0\RedRain.DataAccess.dll
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\bin\Debug\net6.0\RedRain.DataAccess.pdb
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\bin\Debug\net6.0\RedRain.Domain.dll
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\bin\Debug\net6.0\RedRain.Domain.pdb
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.csproj.AssemblyReference.cache
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.AssemblyInfoInputs.cache
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.AssemblyInfo.cs
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.csproj.CopyComplete
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.dll
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\refint\RedRain.DataAccess.dll
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\RedRain.DataAccess.pdb
+C:\Users\daguirre\source\repos\RedRain.Utilities\RedRain.DataAccess\obj\Debug\net6.0\ref\RedRain.DataAccess.dll
